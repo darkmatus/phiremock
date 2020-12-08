@@ -22,8 +22,8 @@
 	"license" : "GPL-3.0-or-later",
 	"require" : {
 		"php" : "8.0",
-		"darkmatus/phiremock-server" : "^1.0",
-		"darkmatus/phiremock-client" : "^1.0"
+		"darkmatus/phiremock-server" : "^2.0",
+		"darkmatus/phiremock-client" : "^2.0"
 	},
 	"suggest": {
         "guzzlehttp/guzzle": "Provides default http client for phiremock client and server."
