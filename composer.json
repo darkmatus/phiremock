@@ -16,7 +16,7 @@
 			"role" : "Administrator"
 		}
 	],
-	"name" : "mcustiel/phiremock",
+	"name" : "darkmatus/phiremock",
 	"type" : "project",
 	"description" : "A mocker for HTTP and REST services. Full bundle.",
 	"license" : "GPL-3.0-or-later",
